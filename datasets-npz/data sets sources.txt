@@ -1,0 +1,20 @@
+All data sets are saved in the Numpy npz format, with the data saved under alias 'X' and labels saved under alias 'y'.
+
+The pen-based Digits data set (digits) is available as part of the Scikit-Learn data sets collection \url{https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html#sklearn.datasets.load_digits}. 
+
+The Olivetti faces data set (olivetti), UMIST (umist) and USPS (usps) digits data sets are available at \url{https://cs.nyu.edu/~roweis/data.html}. 
+
+The Coil-20 data set (coil-20) is available at \url{https://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php}. 
+
+The Coil-100 data set (coil-100) is available at \url{https://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php}. 
+
+The YaleB faces data set (yaleb) is available at \url{http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html}. 
+
+The MNIST handwritten data set (mnist) is available at \url{http://yann.lecun.com/exdb/mnist/}. 
+
+The Fashion-MNIST data set (fashion) is available at \url{https://github.com/zalandoresearch/fashion-mnist}. 
+
+The STL-10 data set (stl10) is available at \url{https://cs.stanford.edu/~acoates/stl10/}. 
+
+The CIFAR-10 data set (cifar10) and CIFAR-100 data set (cifar100) are available at \url{https://www.cs.toronto.edu/~kriz/cifar.html}.
+
